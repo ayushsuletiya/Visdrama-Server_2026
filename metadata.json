@@ -1,0 +1,14 @@
+{
+  "name": "Remix: Remix: OmniOS: E-commerce Operating System",
+  "description": "A high-performance, AI-driven dashboard for omnichannel headless e-commerce management, featuring PIM, logistics, unified inbox, and AI image studio.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI-powered product management",
+    "Unified omnichannel inbox",
+    "High-volume order logistics",
+    "Multi-tenant brand switching"
+  ]
+}
